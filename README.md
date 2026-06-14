@@ -37,5 +37,4 @@ The proposed model architecture follows a hybrid approach:
 git clone https://github.com/marziye-A/ICEE-2023-conference-paper.git
 cd ICEE-2023-conference-paper
 
-# Install dependencies
-pip install -r requirements.txt
+
