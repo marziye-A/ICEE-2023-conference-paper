@@ -21,6 +21,8 @@ The proposed model architecture follows a hybrid approach:
 2.  Sequence Modeling: Instead of the standard HuBERT Transformer layers, we implement a series of Conformer blocks. The Conformer combines Convolutional neural networks and Transformers to capture both local and global dependencies more efficiently.
 3.  Task Head: A lightweight classification head designed for emotion category prediction.
 
+<img width="183" height="527" alt="image" src="https://github.com/user-attachments/assets/6f019d3c-b38c-4b1d-8165-f878ce49ca67" />
+
 
 
 ## 🚀 Key Features
